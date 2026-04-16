@@ -41,8 +41,8 @@ GeoSanct is a small full-stack compliance workspace for Georgian corporate due d
 ### 1. Clone the repository
 
 ```powershell
-git clone <YOUR_GITHUB_REPO_URL>
-cd MoneyPrinter
+git clone https://github.com/Geek838/GeoSanct.git
+cd GeoSanct
 ```
 
 ### 2. Create and activate a Python virtual environment
